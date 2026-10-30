@@ -5,6 +5,10 @@ Tutte le modifiche rilevanti a questo modulo sono documentate in questo file.
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.1.0/)
 e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
 
+## 1.0.5
+
+- Fix: aggiunto `etc/acl.xml` (la risorsa della sezione di configurazione non era dichiarata, quindi non assegnabile ai ruoli); corretta la descrizione del comando `Disable`.
+
 ## [1.0.4] - 2026-07-08
 
 ### Fixed
