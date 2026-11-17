@@ -5,6 +5,13 @@ Tutte le modifiche rilevanti a questo modulo sono documentate in questo file.
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.1.0/)
 e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
 
+## [1.0.7] - 2026-11-17
+
+### Modificato
+- File LICENSE nella radice del pacchetto.
+- `module.xml` dichiara l'ordine di caricamento dopo i moduli Magento che il modulo usa.
+- `composer.json`: requisiti espliciti per PHP e per i moduli Magento usati.
+
 ## 1.0.6
 
 - Fix: la lista IP vuota ma già presente nel database non causa più un errore di chiave duplicata in `3com:maintenance:enable`.
