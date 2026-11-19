@@ -4,7 +4,7 @@ Magento does not show its maintenance page in developer mode. This free module e
 
 ![Maintenance configuration in the Magento admin: enable, IP list and courtesy page](images/maintenance-config.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Themes: Luma, Hyvä, Breeze
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Themes: Luma, Hyvä, Breeze
 **License:** free · **Current version:** see [Releases](../../releases)
 
 ## Features
@@ -20,7 +20,7 @@ Magento does not show its maintenance page in developer mode. This free module e
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - Package: `threecommerce/m2-base` (installed automatically by Composer)
 
 ## Installation
